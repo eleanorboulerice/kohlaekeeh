@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rohbiicuu.jeremykao.com/sitemap.xml
